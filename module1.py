@@ -50,7 +50,6 @@ class App:
         self.show_data(values)
         
         choice = input('\nTry Again? [Y/N]: ')
-
         if choice.lower() == 'y':
             self.show_entry()
         elif choice.lower() == 'n':
