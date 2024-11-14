@@ -18,7 +18,6 @@ class App:
         os.system('cls' if os.name == 'nt' else 'clear')
         print("Payroll System")
         print("-"*10)
-
         print(f"Position Code: {values['pos_code']}")
         print(f"Position: {values['position']}")
         print(f"Basic pay: {values['basic pay']}")
