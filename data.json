@@ -1,0 +1,56 @@
+[
+    {
+        "position": "Manager",
+        "pos_code": "A",
+        "basic_pay": 50000,
+        "pagibig": 500,
+        "sss": 1000,
+        "philhealth": 300,
+        "tax": 0.15
+    },
+    {
+        "position": "Assistant Manager",
+        "pos_code": "B",
+        "basic_pay": 35000,
+        "pagibig": 300,
+        "sss": 800,
+        "philhealth": 300,
+        "tax": 0.10
+    },
+    {
+        "position": "Secretary",
+        "pos_code": "C",
+        "basic_pay": 15000,
+        "pagibig": 200,
+        "sss": 400,
+        "philhealth": 300,
+        "tax": 0.06
+    },
+    {
+        "position": "Encoder",
+        "pos_code": "D",
+        "basic_pay": 20000,
+        "pagibig": 200,
+        "sss": 600,
+        "philhealth": 300,
+        "tax": 0.07
+    },
+    {
+        "position": "Production",
+        "pos_code": "E",
+        "basic_pay": 22000,
+        "pagibig": 200,
+        "sss": 700,
+        "philhealth": 300,
+        "tax": 0.07
+    },
+    {
+        "position": "Purchasing",
+        "pos_code": "F",
+        "basic_pay": 18000,
+        "pagibig": 200,
+        "sss": 700,
+        "philhealth": 300,
+        "tax": 0.07
+    }
+]
